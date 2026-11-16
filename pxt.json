@@ -1,11 +1,11 @@
 {
-    "name": "SuperBitV2",
+    "name": "Eric_MicrobitExtension",
     "version": "1.0.0",
-    "description": "Extension for YahBoom SuperBitV2",
+    "description": "Extension for Eric SuperBitV2",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:lzty634158/pxt-neopixel",
+        "neopixel": "github:chenhua1008/pxt-neopixel",
         "microphone": "*"
     },
     "files": [
